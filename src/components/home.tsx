@@ -16,7 +16,7 @@ const Home: React.FC = (): JSX.Element => {
   return (
     <Container maxWidth="lg">
       <Card>
-        <CardHeader title="ReactNextGen" />
+        <CardHeader title="SchoolBirds" />
         <CardContent>
           <Grid item xs={12}>
             <Typography variant="h6">
@@ -36,7 +36,7 @@ const Home: React.FC = (): JSX.Element => {
               <ListItem button>
                 <Link
                   className="App-link"
-                  href="https://github.com/RajeevSingh273/ReactNextGen#about-the-project"
+                  href="https://github.com/RajeevSingh273/SchoolBirds#about-the-project"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

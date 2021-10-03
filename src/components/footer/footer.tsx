@@ -32,7 +32,7 @@ const Footer: FC<ChildProps> = (props): ReactElement => {
       <Grid container>
         <Grid item xs={6} sm={6} className={classes.itemLeft}>
           <Typography variant="body1" color="inherit">
-            © 2021 ReactNextGen, All Rights Reserved.
+            © 2021 SchoolBirds, All Rights Reserved.
           </Typography>
         </Grid>
         <Grid item xs={6} sm={6} className={classes.itemRight}>

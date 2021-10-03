@@ -6,7 +6,7 @@
     "notificationReadServiceUrl": "http://localhost:3082/api"
   },
   "authentication": {
-    "cookieName": "ReactNextGenClientIdentification",
+    "cookieName": "SchoolBirdsClientIdentification",
     "loginUrl": "http://www.google.com",
     "isDevEnvironment": true
   },
