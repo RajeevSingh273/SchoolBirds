@@ -1,4 +1,4 @@
-<div align="center"><h1> ReactNextGen</h1></div>
+<div align="center"><h1> SchoolBirds</h1></div>
 <br />
 <div align="center"><strong>Start your next react + Type-script + Redux-toolkit + Meterial-Ui project in seconds</strong></div>
 <br /><br /><br />
@@ -43,7 +43,7 @@ This is a starter boilerplate/Template app I've put together using the following
 ## Project structure
 ```
 .
-└── ReactNextGen/
+└── SchoolBirds/
     ├── public/
     │   ├── data
     │   ├── enums
@@ -113,7 +113,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/RajeevSingh273/ReactNextGen.git
+   git clone https://github.com/RajeevSingh273/SchoolBirds.git
    ```
 2. Install NPM packages
    ```sh
@@ -132,7 +132,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/RajeevSingh273/ReactNextGen/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/RajeevSingh273/SchoolBirds/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
@@ -160,7 +160,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Rajeev kumar Singh - [@rajeevsingh273](https://twitter.com/rajeevsingh273) - rajeevsingh273@gmail.com
 
-Project Link: [https://github.com/RajeevSingh273/ReactNextGen](https://github.com/RajeevSingh273/ReactNextGen)
+Project Link: [https://github.com/RajeevSingh273/SchoolBirds](https://github.com/RajeevSingh273/SchoolBirds)
 
 
 
