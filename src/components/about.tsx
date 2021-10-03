@@ -18,7 +18,7 @@ const About: FC<{}> = (): ReactElement => {
   return (
     <Container maxWidth="md">
       <Card>
-        <CardHeader title="ReactNextGen" />
+        <CardHeader title="SchoolBirds" />
         <CardContent>
           <Grid item xs={12}>
             <strong>
@@ -100,7 +100,7 @@ const About: FC<{}> = (): ReactElement => {
               Redux](https://github.com/reactjs/react-router-redux) Redux/React
               Router bindings.
               {/* <!-- PROJECT STRUCTURE--> */}
-              ## Project structure ``` . └── ReactNextGen/ ├── public/ │ ├──
+              ## Project structure ``` . └── SchoolBirds/ ├── public/ │ ├──
               data │ ├── enums │ └── model ├── src/ │ ├── app/ │ │ ├── data │ │
               ├── enums │ │ └── model │ ├── assets/ │ │ ├── config/ │ │ │ └──
               default.json │ │ ├── images │ │ ├── styles/ │ │ │ ├──
@@ -138,7 +138,7 @@ const About: FC<{}> = (): ReactElement => {
             {/* <!-- ROADMAP --> */}
             <div>
               ## Roadmap See the [open
-              issues](https://github.com/RajeevSingh273/ReactNextGen/issues) for
+              issues](https://github.com/RajeevSingh273/SchoolBirds/issues) for
               a list of proposed features (and known issues).
             </div>
           </Grid>
@@ -167,7 +167,7 @@ const About: FC<{}> = (): ReactElement => {
               ## Contact Rajeev kumar Singh -
               [@rajeevsingh273](https://twitter.com/rajeevsingh273) -
               rajeevsingh273@gmail.com Project Link:
-              [https://github.com/RajeevSingh273/ReactNextGen](https://github.com/RajeevSingh273/ReactNextGen)
+              [https://github.com/RajeevSingh273/SchoolBirds](https://github.com/RajeevSingh273/SchoolBirds)
             </div>
           </Grid>
           <Grid item xs={12}>

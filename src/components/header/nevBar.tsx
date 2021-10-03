@@ -183,7 +183,7 @@ export const NavBar: React.FC<ChildProps> = (props) => {
           noWrap
         >
           <Box textAlign="left" m={1}>
-            ReactNextGen
+            SchoolBirds
           </Box>
         </Typography>
         <div className={commonClasses.grow} />
