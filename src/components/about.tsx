@@ -26,108 +26,17 @@ const About: FC<{}> = (): ReactElement => {
               project in seconds
             </strong>
           </Grid>
-          <Grid item xs={12}>
-            {/* TABLE OF CONTENTS  */}
-            <Typography variant="h6">Table of Contents</Typography>
-            {/* <Typography>
-                <Link href="#">Link</Link>
-                <Link href="#" color="inherit">
-                  {'color="inherit"'}
-                </Link>
-                <Link href="#" variant="body2">
-                  {'variant="body2"'}
-                </Link>
-              </Typography> */}
-            <List
-              component="nav"
-              // className={classes.root}
-              aria-label="contacts"
-            >
-              <ListItem button>
-                1.&nbsp;
-                <Link href="#about-the-project">{"About The Project"}</Link>
-              </ListItem>
-              <ListItem button>
-                2.&nbsp;
-                <Link href="#Project-structure">Project structure</Link>
-              </ListItem>
-              <ListItem button>
-                3.&nbsp;
-                <Link href="#getting-started">Getting Started</Link>
-                <List component="div" disablePadding>
-                  <ListItem button>
-                    *.&nbsp;
-                    <Link href="#prerequisites">Prerequisites</Link>
-                  </ListItem>
-                  <ListItem button>
-                    *.&nbsp;
-                    <Link href="#installation">Installation</Link>
-                  </ListItem>
-                </List>
-              </ListItem>
-              <ListItem button>
-                4.&nbsp;
-                <Link href="#usage">Usage</Link>
-              </ListItem>
-              <ListItem button>
-                5.&nbsp;
-                <Link href="#roadmap">Roadmap</Link>
-              </ListItem>
-              <ListItem button>
-                6.&nbsp;
-                <Link href="#contributing">Contributing</Link>
-              </ListItem>
-              <ListItem button>
-                7.&nbsp;
-                <Link href="#license">License</Link>
-              </ListItem>
-              <ListItem button>
-                8.&nbsp;
-                <Link href="#contact">Contact</Link>
-              </ListItem>
-              <ListItem button>
-                9.&nbsp;
-                <Link href="#acknowledgements">Acknowledgements</Link>
-              </ListItem>
-            </List>
-          </Grid>
+          
           <Grid item xs={12}>
             {/* ABOUT THE PROJECT */}
             <div id="about-the-project">
-              ## About The Project This is a starter boilerplate/Template app
-              I've put together using the following technologies: *
-              [React](https://github.com/facebook/react) * [React Router
-              Redux](https://github.com/reactjs/react-router-redux) Redux/React
-              Router bindings.
-              {/* <!-- PROJECT STRUCTURE--> */}
-              ## Project structure ``` . └── SchoolBirds/ ├── public/ │ ├──
-              data │ ├── enums │ └── model ├── src/ │ ├── app/ │ │ ├── data │ │
-              ├── enums │ │ └── model │ ├── assets/ │ │ ├── config/ │ │ │ └──
-              default.json │ │ ├── images │ │ ├── styles/ │ │ │ ├──
-              commonStyle.ts │ │ │ └── index.ts │ │ └── themes/ │ │ ├── index.ts
-              │ │ ├── darkTheme.ts │ │ └── lightTheme.ts │ ├── components/ │ │
-              ├── footer │ │ ├── header/ │ │ │ ├── banner.tsx │ │ │ ├──
-              index.tsx │ │ │ ├── navBar.tsx │ │ │ └── subMene.tsx │ │ ├── help
-              │ │ ├── about.tsx │ │ └── home.tsx │ ├── modulesAPI/ │ │ ├──
-              bannerMessgeAPI.ts │ │ └── requestAPI.ts │ ├── modulesSlice/ │ │
-              ├── bannerMessageSlice.ts │ │ └── index.ts │ ├── reduxStore/ │ │
-              └── store.ts │ ├── routes/ │ │ └── appRoutes.tsx │ ├── App.css │
-              ├── App.test.tsx │ ├── App.tsx │ ├── index.css │ ├── index.tsx │
-              └── logo.svg ├── .env ├── package.json └── tsconfig.json ```
+            
             </div>
           </Grid>
           <Grid item xs={12}>
             {/* <!-- GETTING STARTED --> */}
             <div>
-              ## Getting Started This is an example of how you may give
-              instructions on setting up your project locally. To get a local
-              copy up and running follow these simple example steps. ###
-              Prerequisites This is an example of how to list things you need to
-              use the software and how to install them. * npm ```sh npm install
-              npm@latest -g ``` ### Installation 1. Clone the repo ```sh git
-              clone https://github.com/your_username_/Project-Name.git ``` 2.
-              Install NPM packages ```sh npm install ``` 3. Run App ```sh npm
-              start ```
+            
             </div>
           </Grid>
           <Grid item xs={12}>

@@ -49,6 +49,7 @@ export const NavBar: React.FC<ChildProps> = (props) => {
   });
 
   const homeTab = { text: "Home", url: "/" };
+  const AboutTab = { text: "About", url: "/about" };
   const helpTab = {
     title: "Help",
     links: [
@@ -58,6 +59,7 @@ export const NavBar: React.FC<ChildProps> = (props) => {
   };
 
   const navTabs: any = [];
+  navTabs.push(AboutTab);
   navTabs.push(homeTab);
   navTabs.push(helpTab);
 
